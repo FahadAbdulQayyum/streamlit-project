@@ -83,4 +83,4 @@ def card():
         st.divider()  # Adds a separator between rows
 
 card()
-card()
+# card()
